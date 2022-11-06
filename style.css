@@ -24,3 +24,18 @@ h3 {
     color: rgba(55, 43, 68, 0.805);
     text-decoration: underline;
 }
+
+.description {
+    text-align: justify;
+
+}
+
+li strong {
+    color: rgb(213, 32, 32);
+    font-style: italic;
+}
+
+img {
+    margin-left: 42.3%;
+    text-decoration: line-through;
+}
