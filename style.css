@@ -1,3 +1,7 @@
+* {
+    border: 2px solid red;
+}
+
 body {
     background-color: rgb(228, 205, 233);
 }
